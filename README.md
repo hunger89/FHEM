@@ -7,7 +7,7 @@ inspiriert von Matthias Kleine mit seiner Ineternetseit haus-automatisierung.com
 
 1. Laden der Quellen
 
-``
+```
 sudo apt-get install git-core
 cd /opt/fhem/www
 
