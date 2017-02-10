@@ -1,14 +1,15 @@
-# FHEM Style: haus-automatisierung.com
-
-Mit diesem Style wird die FHEM-Oberfläche etwas anschaulicher - look and feel sind dabei an das Webdesign der Seite [haus-automatisierung.com](https://haus-automatisierung.com/) angelehnt.
+## FHEM Style: hunger89
+Mit diesem Style wird die FHEM-Oberfläche etwas anschaulicher.
+inspiriert von Matthias Kleine mit seiner Ineternetseit haus-automatisierung.com
 
 ## Installation
 
 1. Laden der Quellen
 
-```
+``
+sudo apt-get install git-core
 cd /opt/fhem/www
-git clone https://github.com/klein0r/fhem-style-haus-automatisierung.git hausautomatisierung-com
+git clone https://github.com/hunger89/FHEM.git Hunger89-com
 ```
 
 2. Default style aktivieren
