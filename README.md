@@ -1,3 +1,4 @@
+
 ## FHEM Style: hunger89
 Mit diesem Style wird die FHEM-Oberfläche etwas anschaulicher.
 inspiriert von Matthias Kleine mit seiner Ineternetseit haus-automatisierung.com
@@ -9,7 +10,8 @@ inspiriert von Matthias Kleine mit seiner Ineternetseit haus-automatisierung.com
 ``
 sudo apt-get install git-core
 cd /opt/fhem/www
-git clone https://github.com/hunger89/FHEM.git Hunger89-com
+
+sudo git clone https://github.com/hunger89/FHEM.git Hunger89-com
 ```
 
 2. Default style aktivieren
