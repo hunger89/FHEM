@@ -23,7 +23,3 @@ attr CssFiles hausautomatisierung-com/styles.css
 ```
 
 Einmal speichern und neu laden - fertig.
-
-## Vorschau
-
-![FHEM Style](https://raw.githubusercontent.com/klein0r/fhem-style-haus-automatisierung/master/preview.png)
