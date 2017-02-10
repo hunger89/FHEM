@@ -21,7 +21,7 @@ a {
 }
 
 #logo {
-    background: url(./images/haus_automatisierung.png) no-repeat;
+	background: url(./images/background.png) no-repeat;
     width: 220px;
     height: 120px;
     margin-left: 40px;
@@ -36,8 +36,8 @@ a {
 body {
     background-repeat: no-repeat;
     background-position: center 0;
-    background-image: url("./images/bg_wrapper.jpg");
-    background-color: #354d69;
+    background-image: url("./images/test.jpg");
+    background-color: #D4C274;
     background-attachment: fixed;
 }
 
