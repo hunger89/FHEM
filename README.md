@@ -3,6 +3,8 @@
 Mit diesem Style wird die FHEM-Oberfläche etwas anschaulicher.
 inspiriert von Matthias Kleine mit seiner Ineternetseit haus-automatisierung.com
 
+https://haus-automatisierung.com/hardware/fhem/2016/05/16/fhem-tutorial-reihe-part-5-look-and-feel-von-fhem-veraendern.html
+
 ## Installation
 
 1. Laden der Quellen
